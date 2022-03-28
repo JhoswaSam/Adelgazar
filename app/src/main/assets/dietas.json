@@ -1,0 +1,226 @@
+[
+  {
+    "id": 1,
+    "nombreDieta": "Dieta Mediterránea",
+    "descripcion": "En primer lugar, según estos especialistas en salud, se ha colocado la Dieta Mediterránea, repitiendo la posición del año pasado. “Con su énfasis en las frutas y verduras, el aceite de oliva, el pescado y otras comidas saludables, la dieta mediterránea es sumamente sensata. Y las evaluaciones de los expertos sobre el tema fueron sorprendentemente positivas, lo que le dio a esta dieta una gran ventaja”, comentan los expertos.",
+    "alimentos": [
+      {
+        "nombreAlimento": "Papa"
+      },
+      {
+        "nombreAlimento": "Camote"
+      },
+      {
+        "nombreAlimento": "Yuca"
+      },
+      {
+        "nombreAlimento": "Chuño"
+      },
+      {
+        "nombreAlimento": "Tomate"
+      },
+      {
+        "nombreAlimento": "Papaya"
+      },
+      {
+        "nombreAlimento": "Higo"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "nombreDieta": "Dieta keto",
+    "descripcion": "En primer lugar, según estos especialistas en salud, se ha colocado la Dieta Mediterránea, repitiendo la posición del año pasado. “Con su énfasis en las frutas y verduras, el aceite de oliva, el pescado y otras comidas saludables, la dieta mediterránea es sumamente sensata. Y las evaluaciones de los expertos sobre el tema fueron sorprendentemente positivas, lo que le dio a esta dieta una gran ventaja”, comentan los expertos.",
+    "alimentos": [
+      {
+        "nombreAlimento": "Papa"
+      },
+      {
+        "nombreAlimento": "Camote"
+      },
+      {
+        "nombreAlimento": "Yuca"
+      },
+      {
+        "nombreAlimento": "Chuño"
+      },
+      {
+        "nombreAlimento": "Tomate"
+      },
+      {
+        "nombreAlimento": "Papaya"
+      },
+      {
+        "nombreAlimento": "Higo"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "nombreDieta": "Dieta perricone",
+    "descripcion": "En primer lugar, según estos especialistas en salud, se ha colocado la Dieta Mediterránea, repitiendo la posición del año pasado. “Con su énfasis en las frutas y verduras, el aceite de oliva, el pescado y otras comidas saludables, la dieta mediterránea es sumamente sensata. Y las evaluaciones de los expertos sobre el tema fueron sorprendentemente positivas, lo que le dio a esta dieta una gran ventaja”, comentan los expertos.",
+    "alimentos": [
+      {
+        "nombreAlimento": "Papa"
+      },
+      {
+        "nombreAlimento": "Camote"
+      },
+      {
+        "nombreAlimento": "Yuca"
+      },
+      {
+        "nombreAlimento": "Chuño"
+      },
+      {
+        "nombreAlimento": "Tomate"
+      },
+      {
+        "nombreAlimento": "Papaya"
+      },
+      {
+        "nombreAlimento": "Higo"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "nombreDieta": "Dieta disociada",
+    "descripcion": "En primer lugar, según estos especialistas en salud, se ha colocado la Dieta Mediterránea, repitiendo la posición del año pasado. “Con su énfasis en las frutas y verduras, el aceite de oliva, el pescado y otras comidas saludables, la dieta mediterránea es sumamente sensata. Y las evaluaciones de los expertos sobre el tema fueron sorprendentemente positivas, lo que le dio a esta dieta una gran ventaja”, comentan los expertos.",
+    "alimentos": [
+      {
+        "nombreAlimento": "Papa"
+      },
+      {
+        "nombreAlimento": "Camote"
+      },
+      {
+        "nombreAlimento": "Yuca"
+      },
+      {
+        "nombreAlimento": "Chuño"
+      },
+      {
+        "nombreAlimento": "Tomate"
+      },
+      {
+        "nombreAlimento": "Papaya"
+      },
+      {
+        "nombreAlimento": "Higo"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "nombreDieta": "Dieta frutarina",
+    "descripcion": "En primer lugar, según estos especialistas en salud, se ha colocado la Dieta Mediterránea, repitiendo la posición del año pasado. “Con su énfasis en las frutas y verduras, el aceite de oliva, el pescado y otras comidas saludables, la dieta mediterránea es sumamente sensata. Y las evaluaciones de los expertos sobre el tema fueron sorprendentemente positivas, lo que le dio a esta dieta una gran ventaja”, comentan los expertos.",
+    "alimentos": [
+      {
+        "nombreAlimento": "Papa"
+      },
+      {
+        "nombreAlimento": "Camote"
+      },
+      {
+        "nombreAlimento": "Yuca"
+      },
+      {
+        "nombreAlimento": "Chuño"
+      },
+      {
+        "nombreAlimento": "Tomate"
+      },
+      {
+        "nombreAlimento": "Papaya"
+      },
+      {
+        "nombreAlimento": "Higo"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "nombreDieta": "Dieta dash",
+    "descripcion": "En primer lugar, según estos especialistas en salud, se ha colocado la Dieta Mediterránea, repitiendo la posición del año pasado. “Con su énfasis en las frutas y verduras, el aceite de oliva, el pescado y otras comidas saludables, la dieta mediterránea es sumamente sensata. Y las evaluaciones de los expertos sobre el tema fueron sorprendentemente positivas, lo que le dio a esta dieta una gran ventaja”, comentan los expertos.",
+    "alimentos": [
+      {
+        "nombreAlimento": "Papa"
+      },
+      {
+        "nombreAlimento": "Camote"
+      },
+      {
+        "nombreAlimento": "Yuca"
+      },
+      {
+        "nombreAlimento": "Chuño"
+      },
+      {
+        "nombreAlimento": "Tomate"
+      },
+      {
+        "nombreAlimento": "Papaya"
+      },
+      {
+        "nombreAlimento": "Higo"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "nombreDieta": "Dieta finlandia",
+    "descripcion": "En primer lugar, según estos especialistas en salud, se ha colocado la Dieta Mediterránea, repitiendo la posición del año pasado. “Con su énfasis en las frutas y verduras, el aceite de oliva, el pescado y otras comidas saludables, la dieta mediterránea es sumamente sensata. Y las evaluaciones de los expertos sobre el tema fueron sorprendentemente positivas, lo que le dio a esta dieta una gran ventaja”, comentan los expertos.",
+    "alimentos": [
+      {
+        "nombreAlimento": "Papa"
+      },
+      {
+        "nombreAlimento": "Camote"
+      },
+      {
+        "nombreAlimento": "Yuca"
+      },
+      {
+        "nombreAlimento": "Chuño"
+      },
+      {
+        "nombreAlimento": "Tomate"
+      },
+      {
+        "nombreAlimento": "Papaya"
+      },
+      {
+        "nombreAlimento": "Higo"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "nombreDieta": "Dieta tallarines shirataki",
+    "descripcion": "En primer lugar, según estos especialistas en salud, se ha colocado la Dieta Mediterránea, repitiendo la posición del año pasado. “Con su énfasis en las frutas y verduras, el aceite de oliva, el pescado y otras comidas saludables, la dieta mediterránea es sumamente sensata. Y las evaluaciones de los expertos sobre el tema fueron sorprendentemente positivas, lo que le dio a esta dieta una gran ventaja”, comentan los expertos.",
+    "alimentos": [
+      {
+        "nombreAlimento": "Papa"
+      },
+      {
+        "nombreAlimento": "Camote"
+      },
+      {
+        "nombreAlimento": "Yuca"
+      },
+      {
+        "nombreAlimento": "Chuño"
+      },
+      {
+        "nombreAlimento": "Tomate"
+      },
+      {
+        "nombreAlimento": "Papaya"
+      },
+      {
+        "nombreAlimento": "Higo"
+      }
+    ]
+  }
+]
