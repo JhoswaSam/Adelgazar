@@ -30,7 +30,7 @@
   {
     "id": 2,
     "nombreDieta": "Dieta keto",
-    "descripcion": "En primer lugar, según estos especialistas en salud, se ha colocado la Dieta Mediterránea, repitiendo la posición del año pasado. “Con su énfasis en las frutas y verduras, el aceite de oliva, el pescado y otras comidas saludables, la dieta mediterránea es sumamente sensata. Y las evaluaciones de los expertos sobre el tema fueron sorprendentemente positivas, lo que le dio a esta dieta una gran ventaja”, comentan los expertos.",
+    "descripcion": "Esta se encuentra entre las menos saludables, ya que no es apta para todo el mundo, pues reduce el consumo de carbohidratos hasta el 10% y si te pasas podría ser muy peligroso al caer en cetoacidosis.",
     "alimentos": [
       {
         "nombreAlimento": "Papa"
@@ -58,8 +58,8 @@
   {
     "id": 3,
     "nombreDieta": "Dieta perricone",
-    "descripcion": "En primer lugar, según estos especialistas en salud, se ha colocado la Dieta Mediterránea, repitiendo la posición del año pasado. “Con su énfasis en las frutas y verduras, el aceite de oliva, el pescado y otras comidas saludables, la dieta mediterránea es sumamente sensata. Y las evaluaciones de los expertos sobre el tema fueron sorprendentemente positivas, lo que le dio a esta dieta una gran ventaja”, comentan los expertos.",
-    "alimentos": [
+    "descripcion": "Esto podría llegar a suponer un problema, pues puede que en ocasiones no sean suficientes calorías para el organismo, además de que lo que ingieras habitualmente no te proporcione nutrientes necesarios para el organismo.",
+    "alimentos" : [
       {
         "nombreAlimento": "Papa"
       },
@@ -86,7 +86,7 @@
   {
     "id": 4,
     "nombreDieta": "Dieta disociada",
-    "descripcion": "En primer lugar, según estos especialistas en salud, se ha colocado la Dieta Mediterránea, repitiendo la posición del año pasado. “Con su énfasis en las frutas y verduras, el aceite de oliva, el pescado y otras comidas saludables, la dieta mediterránea es sumamente sensata. Y las evaluaciones de los expertos sobre el tema fueron sorprendentemente positivas, lo que le dio a esta dieta una gran ventaja”, comentan los expertos.",
+    "descripcion": "La dieta disociada está relativamente poco contrastada, pues muchos expertos sostienen que no hay evidencia científica de que ayude realmente a bajar de peso, además de no enseñar hábitos saludables de alimentación mantenidos en el tiempo.",
     "alimentos": [
       {
         "nombreAlimento": "Papa"
@@ -114,7 +114,7 @@
   {
     "id": 5,
     "nombreDieta": "Dieta frutarina",
-    "descripcion": "En primer lugar, según estos especialistas en salud, se ha colocado la Dieta Mediterránea, repitiendo la posición del año pasado. “Con su énfasis en las frutas y verduras, el aceite de oliva, el pescado y otras comidas saludables, la dieta mediterránea es sumamente sensata. Y las evaluaciones de los expertos sobre el tema fueron sorprendentemente positivas, lo que le dio a esta dieta una gran ventaja”, comentan los expertos.",
+    "descripcion": "Todas las dietas saludables incluyen como alimento la fruta, pues se trata de un producto esencial para el organismo.\nSin embargo aunque contenga muchos beneficios tampoco es recomendable basar toda tu alimentación en ella, como propone la dieta frutariana, ya que a largo plazo podrías acabar teniendo un déficit importante de proteína, calcio y de grasa, así como vitaminas.",
     "alimentos": [
       {
         "nombreAlimento": "Papa"
@@ -142,7 +142,7 @@
   {
     "id": 6,
     "nombreDieta": "Dieta dash",
-    "descripcion": "En primer lugar, según estos especialistas en salud, se ha colocado la Dieta Mediterránea, repitiendo la posición del año pasado. “Con su énfasis en las frutas y verduras, el aceite de oliva, el pescado y otras comidas saludables, la dieta mediterránea es sumamente sensata. Y las evaluaciones de los expertos sobre el tema fueron sorprendentemente positivas, lo que le dio a esta dieta una gran ventaja”, comentan los expertos.",
+    "descripcion": "Consiste en alimentarte a base de fruta, verduras, lácteos, granos enteros y mucha, pero que mucha fibra, para así obtener sus beneficios como la pérdida de peso o mejoras en la presión sanguínea.",
     "alimentos": [
       {
         "nombreAlimento": "Papa"
@@ -170,7 +170,7 @@
   {
     "id": 7,
     "nombreDieta": "Dieta finlandia",
-    "descripcion": "En primer lugar, según estos especialistas en salud, se ha colocado la Dieta Mediterránea, repitiendo la posición del año pasado. “Con su énfasis en las frutas y verduras, el aceite de oliva, el pescado y otras comidas saludables, la dieta mediterránea es sumamente sensata. Y las evaluaciones de los expertos sobre el tema fueron sorprendentemente positivas, lo que le dio a esta dieta una gran ventaja”, comentan los expertos.",
+    "descripcion": "Del bosque al plato, ya sea vegetal o animal, una dieta con un fuerte componente de relación con la naturaleza. Respeto por los productos e intentar sacar todo su sabor sin intervenir demasiado, ya sea en la carne, el pescado, las verduras, los frutos",
     "alimentos": [
       {
         "nombreAlimento": "Papa"
@@ -198,7 +198,7 @@
   {
     "id": 8,
     "nombreDieta": "Dieta tallarines shirataki",
-    "descripcion": "En primer lugar, según estos especialistas en salud, se ha colocado la Dieta Mediterránea, repitiendo la posición del año pasado. “Con su énfasis en las frutas y verduras, el aceite de oliva, el pescado y otras comidas saludables, la dieta mediterránea es sumamente sensata. Y las evaluaciones de los expertos sobre el tema fueron sorprendentemente positivas, lo que le dio a esta dieta una gran ventaja”, comentan los expertos.",
+    "descripcion": "Si eres fan de los tallarines o noodles, esta dieta te parecerá estupenda. Consiste en ingerir estos alimentos saciantes que, al contener un compuesto sin calorías que retiene el agua llamado glucomanano, hincha el estómago reduciendo el apetito.",
     "alimentos": [
       {
         "nombreAlimento": "Papa"

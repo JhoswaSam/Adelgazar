@@ -36,7 +36,7 @@
                     <ImageView
                         android:layout_width="70dp"
                         android:layout_height="70dp"
-                        android:src="@drawable/apple"
+                        android:src="@drawable/oil"
                         android:layout_marginLeft="40dp"
                         android:layout_marginRight="25dp"/>
 
@@ -54,7 +54,7 @@
                     <ImageView
                         android:layout_width="70dp"
                         android:layout_height="70dp"
-                        android:src="@drawable/apple"
+                        android:src="@drawable/cheese"
                         android:layout_marginLeft="40dp"
                         android:layout_marginRight="25dp"/>
 
@@ -72,7 +72,7 @@
                     <ImageView
                         android:layout_width="70dp"
                         android:layout_height="70dp"
-                        android:src="@drawable/apple"
+                        android:src="@drawable/pineapple"
                         android:layout_marginLeft="40dp"
                         android:layout_marginRight="25dp"/>
 
@@ -90,7 +90,7 @@
                     <ImageView
                         android:layout_width="70dp"
                         android:layout_height="70dp"
-                        android:src="@drawable/apple"
+                        android:src="@drawable/meat"
                         android:layout_marginLeft="40dp"
                         android:layout_marginRight="25dp"/>
 
@@ -126,7 +126,7 @@
                     <ImageView
                         android:layout_width="70dp"
                         android:layout_height="70dp"
-                        android:src="@drawable/apple"
+                        android:src="@drawable/vegetables"
                         android:layout_marginLeft="40dp"
                         android:layout_marginRight="25dp"/>
 
@@ -144,7 +144,7 @@
                     <ImageView
                         android:layout_width="70dp"
                         android:layout_height="70dp"
-                        android:src="@drawable/apple"
+                        android:src="@drawable/blueberry"
                         android:layout_marginLeft="40dp"
                         android:layout_marginRight="25dp"/>
 
@@ -162,7 +162,7 @@
                     <ImageView
                         android:layout_width="70dp"
                         android:layout_height="70dp"
-                        android:src="@drawable/apple"
+                        android:src="@drawable/pasta"
                         android:layout_marginLeft="40dp"
                         android:layout_marginRight="25dp"/>
 

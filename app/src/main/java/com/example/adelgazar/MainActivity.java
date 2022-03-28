@@ -1,6 +1,8 @@
 package com.example.adelgazar;
 
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.dynamicanimation.animation.DynamicAnimation;
+import androidx.dynamicanimation.animation.SpringAnimation;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -18,11 +20,11 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-
         logo = (LottieAnimationView) findViewById(R.id.logo);
 
         logo.setAnimation(R.raw.watermelon);
         logo.playAnimation();
+
 
         new Handler().postDelayed(new Runnable() {
             @Override

@@ -11,6 +11,7 @@ public class Dieta extends AppCompatActivity {
 
     TextView tituloDieta ;
     TextView descripcionDieta ;
+    TextView alimentosDieta ;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -21,10 +22,10 @@ public class Dieta extends AppCompatActivity {
 
         tituloDieta = findViewById(R.id.tituloDieta);
         descripcionDieta = findViewById(R.id.descripcionDieta);
-
+        alimentosDieta = findViewById(R.id.alimentosDieta);
 
         tituloDieta.setText(dieta[0]);
         descripcionDieta.setText(dieta[1]);
-
+        alimentosDieta.setText(dieta[2]);
     }
 }
