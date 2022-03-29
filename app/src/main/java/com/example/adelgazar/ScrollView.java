@@ -1,5 +1,6 @@
 package com.example.adelgazar;
 
+import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
@@ -112,6 +113,7 @@ public class ScrollView extends AppCompatActivity {
 
     }
 
+    @NonNull
     private String[] FindData(int id){
         String jsonFileContent = null;
         String[] Dieta = new String[3] ;
