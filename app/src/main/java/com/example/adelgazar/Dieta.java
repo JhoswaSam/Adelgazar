@@ -2,8 +2,12 @@ package com.example.adelgazar;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
+import android.net.Uri;
 import android.os.Bundle;
 import android.util.Log;
+import android.view.View;
+import android.widget.Button;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
@@ -19,6 +23,8 @@ public class Dieta extends AppCompatActivity {
 
     TextView tituloDieta ;
     TextView descripcionDieta ;
+
+    Button navigatorButton;
 
     LinearLayout alimentos;
 
@@ -38,12 +44,11 @@ public class Dieta extends AppCompatActivity {
         tituloDieta = findViewById(R.id.tituloDieta);
         descripcionDieta = findViewById(R.id.descripcionDieta);
         alimentos = findViewById(R.id.alimentosDieta);
+        navigatorButton = findViewById(R.id.navigatorButton);
 
-        tituloDieta.setText(dieta[0]);
+
         descripcionDieta.setText(dieta[1]);
-        Log.d("Type",((Object)dieta[2]).getClass().getSimpleName());
-        Log.d("Data",dieta[2]);
-
+        tituloDieta.setText(dieta[0]);
 
 
         try {
@@ -61,5 +66,18 @@ public class Dieta extends AppCompatActivity {
         } catch (JSONException  e) {
             e.printStackTrace();
         }
+
+        navigatorButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                gotoURL("https://www.lavanguardia.com/comer/tendencias/20190106/453919591368/mejores-dietas-2019-adelgazar.html");
+            }
+        });
+
+    }
+
+    private void gotoURL(String s) {
+        Uri uri = Uri.parse(s);
+        startActivity (new Intent(Intent.ACTION_VIEW, uri));
     }
 }

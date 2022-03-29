@@ -47,11 +47,17 @@
         <LinearLayout
             android:id="@+id/alimentosDieta"
             android:layout_width="300dp"
-            android:layout_height="match_parent"
+            android:layout_height="wrap_content"
             android:orientation="vertical"
             android:gravity="top|start">
-
         </LinearLayout>
+        <Button
+            android:id="@+id/navigatorButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Mas informacion"
+            android:layout_margin="15dp"
+            />
 
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>

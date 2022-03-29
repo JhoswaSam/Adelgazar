@@ -5,25 +5,25 @@
     "descripcion": "En primer lugar, según estos especialistas en salud, se ha colocado la Dieta Mediterránea, repitiendo la posición del año pasado. “Con su énfasis en las frutas y verduras, el aceite de oliva, el pescado y otras comidas saludables, la dieta mediterránea es sumamente sensata. Y las evaluaciones de los expertos sobre el tema fueron sorprendentemente positivas, lo que le dio a esta dieta una gran ventaja”, comentan los expertos.",
     "alimentos": [
       {
-        "nombreAlimento": "Papa"
+        "nombreAlimento": "Vegetales"
       },
       {
-        "nombreAlimento": "Camote"
+        "nombreAlimento": "Res"
       },
       {
-        "nombreAlimento": "Yuca"
+        "nombreAlimento": "Pollo"
       },
       {
-        "nombreAlimento": "Chuño"
+        "nombreAlimento": "Fibra"
       },
       {
-        "nombreAlimento": "Tomate"
+        "nombreAlimento": "Pescado y Mariscos"
       },
       {
-        "nombreAlimento": "Papaya"
+        "nombreAlimento": "Aceite de oliva"
       },
       {
-        "nombreAlimento": "Higo"
+        "nombreAlimento": "Sin salsas ni jugos de la carne"
       }
     ]
   },
@@ -33,25 +33,22 @@
     "descripcion": "Esta se encuentra entre las menos saludables, ya que no es apta para todo el mundo, pues reduce el consumo de carbohidratos hasta el 10% y si te pasas podría ser muy peligroso al caer en cetoacidosis.",
     "alimentos": [
       {
-        "nombreAlimento": "Papa"
+        "nombreAlimento": "Pescado y Mariscos"
       },
       {
-        "nombreAlimento": "Camote"
+        "nombreAlimento": "Queso"
       },
       {
-        "nombreAlimento": "Yuca"
+        "nombreAlimento": "Grasa naturales"
       },
       {
-        "nombreAlimento": "Chuño"
+        "nombreAlimento": "Carne"
       },
       {
-        "nombreAlimento": "Tomate"
+        "nombreAlimento": "Huevo"
       },
       {
-        "nombreAlimento": "Papaya"
-      },
-      {
-        "nombreAlimento": "Higo"
+        "nombreAlimento": "Verduras que crecen sobre el suelo"
       }
     ]
   },
@@ -61,81 +58,66 @@
     "descripcion": "Esto podría llegar a suponer un problema, pues puede que en ocasiones no sean suficientes calorías para el organismo, además de que lo que ingieras habitualmente no te proporcione nutrientes necesarios para el organismo.",
     "alimentos" : [
       {
-        "nombreAlimento": "Papa"
+        "nombreAlimento": "Omega 3"
       },
       {
-        "nombreAlimento": "Camote"
+        "nombreAlimento": "Frutas ricas en fibra"
       },
       {
-        "nombreAlimento": "Yuca"
+        "nombreAlimento": "Frutas con grasa"
       },
       {
-        "nombreAlimento": "Chuño"
+        "nombreAlimento": "Chile y pimientos"
       },
       {
-        "nombreAlimento": "Tomate"
-      },
-      {
-        "nombreAlimento": "Papaya"
-      },
-      {
-        "nombreAlimento": "Higo"
+        "nombreAlimento": "Legumbres"
       }
     ]
   },
   {
     "id": 4,
     "nombreDieta": "Dieta disociada",
-    "descripcion": "La dieta disociada está relativamente poco contrastada, pues muchos expertos sostienen que no hay evidencia científica de que ayude realmente a bajar de peso, además de no enseñar hábitos saludables de alimentación mantenidos en el tiempo.",
+    "descripcion": "La dieta disociada está relativamente poco contrastada, pues muchos expertos sostienen que no hay evidencia científica de que ayude realmente a bajar de peso, además de no enseñar hábitos saludables de alimentación mantenidos en el tiempo.!OJO TODOS LOS ALIMENTOS SON SEPARADOS, NO SE JUNTAN",
     "alimentos": [
       {
-        "nombreAlimento": "Papa"
+        "nombreAlimento": "Carne"
       },
       {
-        "nombreAlimento": "Camote"
+        "nombreAlimento": "Pescado"
       },
       {
-        "nombreAlimento": "Yuca"
+        "nombreAlimento": "Huevos"
       },
       {
-        "nombreAlimento": "Chuño"
+        "nombreAlimento": "Yogur"
       },
       {
-        "nombreAlimento": "Tomate"
+        "nombreAlimento": "Arroz"
       },
       {
-        "nombreAlimento": "Papaya"
+        "nombreAlimento": "Patatas"
       },
       {
-        "nombreAlimento": "Higo"
+        "nombreAlimento": "Leche"
       }
     ]
   },
   {
     "id": 5,
-    "nombreDieta": "Dieta frutarina",
+    "nombreDieta": "Dieta Frutariana",
     "descripcion": "Todas las dietas saludables incluyen como alimento la fruta, pues se trata de un producto esencial para el organismo.\nSin embargo aunque contenga muchos beneficios tampoco es recomendable basar toda tu alimentación en ella, como propone la dieta frutariana, ya que a largo plazo podrías acabar teniendo un déficit importante de proteína, calcio y de grasa, así como vitaminas.",
     "alimentos": [
       {
-        "nombreAlimento": "Papa"
+        "nombreAlimento": "Frutas"
       },
       {
-        "nombreAlimento": "Camote"
+        "nombreAlimento": "Semillas"
       },
       {
-        "nombreAlimento": "Yuca"
+        "nombreAlimento": "Verduras"
       },
       {
-        "nombreAlimento": "Chuño"
-      },
-      {
-        "nombreAlimento": "Tomate"
-      },
-      {
-        "nombreAlimento": "Papaya"
-      },
-      {
-        "nombreAlimento": "Higo"
+        "nombreAlimento": "Frutos secos"
       }
     ]
   },
@@ -145,25 +127,22 @@
     "descripcion": "Consiste en alimentarte a base de fruta, verduras, lácteos, granos enteros y mucha, pero que mucha fibra, para así obtener sus beneficios como la pérdida de peso o mejoras en la presión sanguínea.",
     "alimentos": [
       {
-        "nombreAlimento": "Papa"
+        "nombreAlimento": "Verduras"
       },
       {
-        "nombreAlimento": "Camote"
+        "nombreAlimento": "Granos enteros"
       },
       {
-        "nombreAlimento": "Yuca"
+        "nombreAlimento": "Pescado"
       },
       {
-        "nombreAlimento": "Chuño"
+        "nombreAlimento": "Reducir la sal"
       },
       {
-        "nombreAlimento": "Tomate"
+        "nombreAlimento": "Reducir bebidas alcoholicas"
       },
       {
-        "nombreAlimento": "Papaya"
-      },
-      {
-        "nombreAlimento": "Higo"
+        "nombreAlimento": "Carnes rojas y blancas"
       }
     ]
   },
@@ -173,25 +152,19 @@
     "descripcion": "Del bosque al plato, ya sea vegetal o animal, una dieta con un fuerte componente de relación con la naturaleza. Respeto por los productos e intentar sacar todo su sabor sin intervenir demasiado, ya sea en la carne, el pescado, las verduras, los frutos",
     "alimentos": [
       {
-        "nombreAlimento": "Papa"
+        "nombreAlimento": "Bayas o frutas del bosque"
       },
       {
-        "nombreAlimento": "Camote"
+        "nombreAlimento": "Frutas"
       },
       {
-        "nombreAlimento": "Yuca"
+        "nombreAlimento": "Cereales Enteros"
       },
       {
-        "nombreAlimento": "Chuño"
+        "nombreAlimento": "Legumbres"
       },
       {
-        "nombreAlimento": "Tomate"
-      },
-      {
-        "nombreAlimento": "Papaya"
-      },
-      {
-        "nombreAlimento": "Higo"
+        "nombreAlimento": "Lacteos"
       }
     ]
   },
@@ -201,25 +174,7 @@
     "descripcion": "Si eres fan de los tallarines o noodles, esta dieta te parecerá estupenda. Consiste en ingerir estos alimentos saciantes que, al contener un compuesto sin calorías que retiene el agua llamado glucomanano, hincha el estómago reduciendo el apetito.",
     "alimentos": [
       {
-        "nombreAlimento": "Papa"
-      },
-      {
-        "nombreAlimento": "Camote"
-      },
-      {
-        "nombreAlimento": "Yuca"
-      },
-      {
-        "nombreAlimento": "Chuño"
-      },
-      {
-        "nombreAlimento": "Tomate"
-      },
-      {
-        "nombreAlimento": "Papaya"
-      },
-      {
-        "nombreAlimento": "Higo"
+        "nombreAlimento": "Tallarines"
       }
     ]
   }
